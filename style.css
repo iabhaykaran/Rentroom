@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  width: 750px;
+
+  /* color: #ffd700; */
+}
+
+a {
+  text-decoration: none;
+  /* background-color: rgb(21, 71, 252); */
+  color: aliceblue;
+  padding: 2px;
+}
+.nav {
+  /* color: #ffd700; */
+  color: aqua;
+  /* color: aqua; */
+  padding: 10px;
+  background-color: black;
+}
+
+.call-btn {
+  color: rgb(38, 255, 0);
+  font-weight: 500;
+
+}
+img {
+  width: 100%;
+  height: 250px;
+}
+
+
+.content {
+  width: 100%;
+  margin-bottom: 5px;
+  /* display: flex; */
+  /* ............ */
+}
+
+.information {
+  color: rgb(237, 244, 249);
+  padding: 5px;
+  background-color: rgb(1, 1, 1);
+
+}
+
+/* Admin page CSS  */
+
+input {
+  width: 350px;
+  border: none;
+}
+
+.form {
+  text-align: left;
+  font-weight: 600;
+  font-size: 35px;
+
+  padding: 150px;
+  height: 100vh;
+  background-color: #fce354;
+}
+
+.des {
+  border: none;
+  padding: 3px;
+  height: 30px;
+  margin-top: 8px;
+}
+
+.des2 {
+  width: 350px;
+  height: 100px;
+}
+
+.submit-btn {
+  margin-top: 5px;
+  color: antiquewhite;
+  padding: 0 5px;
+  font-weight: 600;
+  background-color: blue;
+}
