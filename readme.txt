@@ -1,6 +1,6 @@
 create rooms database
 create room table
-import sql code into table from db.sql file 
+import db.sql file into table for creating sql table 
 
 
 
